@@ -1,0 +1,38 @@
+{
+    "_": {
+        "editor": {
+            "view": {
+                "view-show-grid": true,
+                "view-snap-grid": true,
+                "view-grid-size": "20",
+                "view-node-status": true,
+                "view-node-show-label": true,
+                "view-show-tips": true
+            }
+        }
+    },
+    "admin": {
+        "editor": {
+            "view": {
+                "view-show-grid": true,
+                "view-snap-grid": true,
+                "view-grid-size": "20",
+                "view-node-status": true,
+                "view-node-show-label": true,
+                "view-show-tips": false
+            },
+            "sidebar": {
+                "order": [
+                    "info",
+                    "debug",
+                    "help",
+                    "config",
+                    "context",
+                    "dashboard"
+                ]
+            }
+        },
+        "menu-menu-item-sidebar": true,
+        "menu-menu-item-palette": true
+    }
+}
